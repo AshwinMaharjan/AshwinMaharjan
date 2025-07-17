@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast and aspiring developer curre
 - Educational Projects for Students
 
 📫 How to reach me:
-- 📧 Email: maharjan.ashwin098@gmail.com
-
-<!---
-AshwinMaharjan/AshwinMaharjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: maharjan.ashwin098@gmail.com
+- Instagram: https://www.instagram.com/__ashwin07__/
+- Facebook: https://www.facebook.com/mhrzn.ashwin/
