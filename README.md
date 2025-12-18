@@ -1,21 +1,15 @@
 Hi there, I'm Ashwin Maharjan!
 
-Welcome to my GitHub profile! I'm a tech enthusiast and aspiring developer currently exploring the world of software development and related technologies.
+I'm a tech enthusiast and aspiring developer exploring the software development and related technologies.
 
-**I’m interested in**:
-- Web Development (Frontend & Backend)
-- Python & PHP Projects
-- UI/UX Design and Creative Coding
-
-**I’m currently learning**:
-- Advanced Python Programming
+**Currently Working On**:
 - Full Stack Web Development (PHP, JavaScript, MySQL)
-- Marketing & Business Information Systems (as part of my studies)
+- Python projects and UI/UX  experiments
 
-**I’m looking to collaborate on**:
-- Open Source Projects
-- Web-based Applications
-- Educational Projects for Students
+**Tools and Tech I Use**:
+- Languages: Python, PHP, JavaScript
+- Databases: MySQL
+- Design: Figma, HTML/CSS
 
 **How to reach me**:
 - Email: maharjan.ashwin098@gmail.com
