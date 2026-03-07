@@ -31,9 +31,20 @@ const ashwin = {
 
 ## 🌱 Currently Learning
 
-- Advanced React patterns and hooks
-- Backend development with Node.js & Express
-- UI/UX design principles with Figma
+<table>
+  <tr>
+    <td>⚛️</td>
+    <td><strong>Advanced React</strong> — Patterns, hooks, and component architecture</td>
+  </tr>
+  <tr>
+    <td>🟢</td>
+    <td><strong>Node.js & Express</strong> — Backend development and REST APIs</td>
+  </tr>
+  <tr>
+    <td>✏️</td>
+    <td><strong>UI/UX Design</strong> — Design principles and prototyping with Figma</td>
+  </tr>
+</table>
 
 ---
 
@@ -73,13 +84,13 @@ const ashwin = {
 ## 📌 Featured Projects
 
 🔹 **MyCampus Hub**
-College management system built with PHP, MySQL, and JavaScript. Streamlines student records, scheduling, and campus communication.
+A college management system built with PHP, MySQL, and JavaScript. Streamlines student records, scheduling, and campus communication — making day-to-day college operations simpler and more efficient.
+
+🔹 **Notion AI Clone**
+A productivity and note-taking web app inspired by Notion, enhanced with AI-powered writing assistance. Built to explore rich text editing, dynamic page structures, and seamless user experience.
 
 🔹 **Cinema Ticket Booking System**
-A web application for booking cinema seats with an interactive seat selection interface, built with HTML, CSS, and JavaScript.
-
-🔹 **Python Data Analysis Project**
-Business data visualization and insights using Python — turning raw data into meaningful, actionable charts and reports.
+A web application for browsing movies and booking cinema seats with an interactive seat selection interface. Built with HTML, CSS, and JavaScript for a smooth and intuitive booking experience.
 
 ---
 
