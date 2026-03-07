@@ -58,13 +58,9 @@ const ashwin = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinMaharjan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
 
 <br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinMaharjan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" />
-
 </div>
 
 ---
-
 
 ## 📫 Connect With Me
 
@@ -81,9 +77,4 @@ const ashwin = {
 <a href="https://www.facebook.com/mhrzn.ashwin/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-<br/><br/>
-
-💌 Feel free to reach out — whether it's for collaborations, questions, or just a friendly chat about tech!
-
 </div>
