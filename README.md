@@ -9,7 +9,7 @@ Hi there 👋
 
 I'm **Ashwin Maharjan**, a BIM student from Nepal 🇳🇵 passionate about building web applications and exploring modern technologies.
 
-I enjoy creating clean user interfaces, learning new frameworks, and solving real-world problems through code.
+I enjoy creating clean user interfaces, learning new frameworks and solving real-world problems through code.
 
 > *"Code, learn, build, repeat."*
 
