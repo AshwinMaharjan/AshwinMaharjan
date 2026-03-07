@@ -1,9 +1,17 @@
 <div align="center">
-
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ashwin%20Maharjan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20BIM%20Student%20%7C%20Nepal%20🇳🇵&descSize=16&descAlignY=58&animation=fadeIn" />
-
 </div>
+
+---
+
+Hi there 👋
+
+I'm **Ashwin Maharjan**, a BIM student from Nepal 🇳🇵 passionate about building web applications and exploring modern technologies.
+
+I enjoy creating clean user interfaces, learning new frameworks, and solving real-world problems through code.
+
+> *"Code, learn, build, repeat."*
 
 ---
 
@@ -18,6 +26,14 @@ const ashwin = {
   passions:  ["Web Development", "UI/UX Design", "Problem Solving"],
 };
 ```
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns and hooks
+- Backend development with Node.js & Express
+- UI/UX design principles with Figma
 
 ---
 
@@ -54,19 +70,33 @@ const ashwin = {
 
 ---
 
+## 📌 Featured Projects
+
+🔹 **MyCampus Hub**
+College management system built with PHP, MySQL, and JavaScript. Streamlines student records, scheduling, and campus communication.
+
+🔹 **Cinema Ticket Booking System**
+A web application for booking cinema seats with an interactive seat selection interface, built with HTML, CSS, and JavaScript.
+
+🔹 **Python Data Analysis Project**
+Business data visualization and insights using Python — turning raw data into meaningful, actionable charts and reports.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinMaharjan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AshwinMaharjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinMaharjan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
+  <br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinMaharjan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
 </div>
 
 ---
 
-
 ## 📫 Connect With Me
 
 <div align="center">
-
 <a href="mailto:maharjan.ashwin098@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -78,4 +108,8 @@ const ashwin = {
 <a href="https://www.facebook.com/mhrzn.ashwin/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
 </div>
