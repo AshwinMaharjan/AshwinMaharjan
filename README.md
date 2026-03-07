@@ -83,14 +83,11 @@ const ashwin = {
 
 ## 📌 Featured Projects
 
-🔹 **MyCampus Hub**
-A college management system built with PHP, MySQL, and JavaScript. Streamlines student records, scheduling, and campus communication — making day-to-day college operations simpler and more efficient.
+🔹 **MyCampus Hub**: A college management system built with PHP, MySQL and JavaScript. Streamlines student records, scheduling and campus communication, making day-to-day college operations simpler and more efficient.
 
-🔹 **Notion AI Clone**
-A productivity and note-taking web app inspired by Notion, enhanced with AI-powered writing assistance. Built to explore rich text editing, dynamic page structures, and seamless user experience.
+🔹 **Notion AI Clone**: A productivity and note-taking web app inspired by Notion, enhanced with AI-powered writing assistance. Built to explore rich text editing, dynamic page structures, and seamless user experience.
 
-🔹 **Cinema Ticket Booking System**
-A web application for browsing movies and booking cinema seats with an interactive seat selection interface. Built with HTML, CSS, and JavaScript for a smooth and intuitive booking experience.
+🔹 **Cinema Ticket Booking System**: A web application for browsing movies and booking cinema seats with an interactive seat selection interface. Built with HTML, CSS and JavaScript for a smooth and intuitive booking experience.
 
 ---
 
@@ -119,8 +116,4 @@ A web application for browsing movies and booking cinema seats with an interacti
 <a href="https://www.facebook.com/mhrzn.ashwin/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
 </div>
