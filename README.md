@@ -76,9 +76,4 @@ const ashwin = {
 <a href="https://www.facebook.com/mhrzn.ashwin/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-<br/><br/>
-
-💌 Feel free to reach out — whether it's for collaborations, questions, or just a friendly chat about tech!
-
 </div>
