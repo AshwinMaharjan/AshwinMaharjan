@@ -94,10 +94,7 @@ const ashwin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AshwinMaharjan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinMaharjan&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
-  <br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinMaharjan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" />
 </div>
 
 ---
