@@ -87,7 +87,7 @@ const ashwin = {
 
 🔹 **Notion AI Clone**: A productivity and note-taking web app inspired by Notion, enhanced with AI-powered writing assistance. Built to explore rich text editing, dynamic page structures, and seamless user experience.
 
-🔹 **Cinema Ticket Booking System**: A web application for browsing movies and booking cinema seats with an interactive seat selection interface. Built with HTML, CSS and JavaScript for a smooth and intuitive booking experience.
+🔹 **JerseyFlow E-commerce**: An online jersey shopping platform built with PHP, MySQL, HTML, CSS, and JavaScript. Allows users to browse products, manage carts, and place orders, providing a smooth and user-friendly shopping experience.
 
 ---
 
