@@ -73,7 +73,6 @@ const ashwin = {
 
 ### 🎨 Design & Tools
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -87,7 +86,7 @@ const ashwin = {
 
 🔹 **Notion AI Clone**: A productivity and note-taking web app inspired by Notion, enhanced with AI-powered writing assistance. Built to explore rich text editing, dynamic page structures, and seamless user experience.
 
-🔹 **JerseyFlow E-commerce**: An online jersey shopping platform built with PHP, MySQL, HTML, CSS, and JavaScript. Allows users to browse products, manage carts, and place orders, providing a smooth and user-friendly shopping experience.
+🔹 **JerseyFlow E-commerce**: An online jersey shopping platform built with PHP, MySQL, HTML, CSS, and JavaScript. It allows users to browse products, manage carts, and place orders, providing a smooth and user-friendly shopping experience with test eSewa payment integration and responsive design.
 
 ---
 
