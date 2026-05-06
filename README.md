@@ -84,9 +84,10 @@ const ashwin = {
 
 🔹 **MyCampus Hub**: A college management system built with PHP, MySQL and JavaScript. Streamlines student records, scheduling and campus communication, making day-to-day college operations simpler and more efficient.
 
+🔹 **JerseyFlow E-commerce**: An online jersey shopping platform built with PHP, MySQL, HTML, CSS, and JavaScript. It allows users to browse products, manage carts, and place orders, providing a smooth and user-friendly shopping experience with test eSewa payment integration and responsive design.
+
 🔹 **Notion AI Clone**: A productivity and note-taking web app inspired by Notion, enhanced with AI-powered writing assistance. Built to explore rich text editing, dynamic page structures, and seamless user experience.
 
-🔹 **JerseyFlow E-commerce**: An online jersey shopping platform built with PHP, MySQL, HTML, CSS, and JavaScript. It allows users to browse products, manage carts, and place orders, providing a smooth and user-friendly shopping experience with test eSewa payment integration and responsive design.
 
 ---
 
